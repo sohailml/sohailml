@@ -16,9 +16,9 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sohailml/) 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/sohailml) 
-[![Email](https://img.shields.io/badge/Email-sohail.ai.work%40gmail.com-red)](mailto:sohail.ai.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohailml)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sohailml)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohail.ai.work@gmail.com)
 
 ---
 
