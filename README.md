@@ -10,7 +10,7 @@
 
 - 🌱 Learning **Python** from scratch  
 - 📅 Daily coding habit (1 commit/day)  
-- 🗺️ Building my [AI/ML Roadmap](https://github.com/sohailml/bca-ai-ml-roadmap)  
+- 🗺️ Focusing on my [AI/ML Roadmap](https://github.com/sohailml/bca-ai-ml-roadmap)  
 
 ---
 
