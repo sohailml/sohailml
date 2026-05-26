@@ -24,9 +24,9 @@
 
 ## 📊 GitHub Stats
 
-![Sohail's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sohailml&show_icons=true&theme=dark)
+![Sohail's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohailml&show_icons=true&theme=dark&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohailml&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=sohailml&theme=dark&cache_seconds=1800)
 
 ---
 
