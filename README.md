@@ -38,10 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=sohailml&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohailml&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## 📌 Current Focus
