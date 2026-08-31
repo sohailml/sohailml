@@ -35,7 +35,7 @@
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=sohailml&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sohailml&theme=tokyonight&hide_border=true&clear_cache=true" />
 </p>
 
 ---
