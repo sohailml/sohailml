@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 🧠 Learning **Python + DSA**
+- 🧠 Learning **Ai/Ml**
 - 📅 Daily coding habit (1 commit/day)
 - 🎯 Goal: AI/ML Engineer
 - ⚡ Building discipline & consistency
@@ -30,13 +30,6 @@
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
----
-
-## 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=sohailml&theme=tokyonight&hide_border=true&clear_cache=1" />
-</p>
 
 ---
 
