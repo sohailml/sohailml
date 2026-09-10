@@ -23,6 +23,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/sohailml/sohailml/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 🧠 Learning **Ai/Ml**
