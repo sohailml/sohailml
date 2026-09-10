@@ -18,7 +18,7 @@
 ## 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=sohailml&theme=radical&hide_border=true&border_radius=15&ring=ff00ff&fire=ff0000&currStreakLabel=ff00ff" />
+  <img src="https://streak-stats.demolab.com?user=sohailml&theme=tokyonight&hide_border=true&border_radius=12&ring=00F7FF&currStreakLabel=00F7FF&sideNums=00F7FF" />
 </p>
 
 ---
