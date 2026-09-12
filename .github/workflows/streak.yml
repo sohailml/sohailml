@@ -1,1 +1,30 @@
+name: Generate Streak
 
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily run
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=sohailml&theme=tokyonight&hide_border=true&border_radius=12&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideNums=00F7FF
+          path: output/streak.svg
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/streak.svg
+          git commit -m "update streak" || exit 0
+          git push
