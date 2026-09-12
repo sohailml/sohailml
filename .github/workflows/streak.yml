@@ -18,7 +18,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=sohailml&theme=tokyonight&hide_border=true&border_radius=12&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideNums=00F7FF
+          options: user=sohailml&theme=transparent&hide_border=true&border_radius=25&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF
           path: output/streak.svg
 
       - name: Commit & Push
