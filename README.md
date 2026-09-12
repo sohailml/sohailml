@@ -15,7 +15,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 My Coding Consistency
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/sohailml/sohailml/main/output/streak.svg" />
