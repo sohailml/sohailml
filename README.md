@@ -18,7 +18,7 @@
 ## 🔥 My Coding Consistency
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/sohailml/sohailml/main/output/streak.svg" />
+  <img src="https://raw.githubusercontent.com/sohailml/sohailml/main/output/streak.svg?random=123" />
 </p>
 
 ---
