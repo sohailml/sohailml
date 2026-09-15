@@ -2,7 +2,7 @@ name: Generate Streak
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # daily run
+    - cron: "30 0 * * *"   # daily run
   workflow_dispatch:
 
 jobs:
